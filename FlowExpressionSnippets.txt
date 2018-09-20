@@ -1,0 +1,5 @@
+concat('Item added at ', formatDateTime(utcNow(), 'h:mm:ss tt'))
+
+concat('Item added with ID of ', guid() )
+
+@equals( length(body('Get_items')?['value']), 0 )

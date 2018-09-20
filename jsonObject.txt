@@ -1,0 +1,17 @@
+{
+  "ratpack" : [
+    {
+      "firstName": "Frank",
+      "lastName": "Sinatra",
+    },
+    {
+      "firstName": "Dean",
+      "lastName": "Martin",
+    },
+    {
+      "firstName": "Sammy",
+      "lastName": "Davis Jr",
+    }
+  ]
+}
+]

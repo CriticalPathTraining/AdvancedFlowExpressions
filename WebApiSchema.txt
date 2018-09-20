@@ -1,0 +1,17 @@
+{
+"CustomerId": 1,
+"FirstName": "Madeline",
+"LastName": "Jenkins",
+"Company": "Ewing Oil",
+"EmailAddress": "Madeline.Jenkins@EwingOil.com",
+"WorkPhone": "1(305)666-3333",
+"HomePhone": "1(305)333-8888",
+"Address": "54 Euclid Avenue",
+"City": "Miami",
+"State": "FL",
+"Zipcode": "33156",
+"Gender": "F",
+"BirthDate": "1935-11-19T00:00:00",
+"FirstPurchaseDate": "0001-01-01T00:00:00",
+"LastPurchaseDate": "0001-01-01T00:00:00"
+}
